@@ -1,1 +1,2 @@
-This is <?= $title ?>
+<h2> <?= $title ?> </h2>
+<p>Welcome to the CI_Blog Application</p>
